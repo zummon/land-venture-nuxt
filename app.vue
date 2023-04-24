@@ -9,7 +9,7 @@
     </Head>
     <div class="sm:flex items-center">
       <div class="flex-1">
-        <img class="w-full h-auto" src="/AtThePark.svg" />
+        <img class="w-full h-auto" src="/image/AtThePark.svg" />
       </div>
       <div class="flex-1 p-8">
         <h1 class="text-4xl mb-6 font-bold text-green-500">Land Venture</h1>
@@ -52,7 +52,7 @@
         <div
           class="p-4 border-2 rounded-xl bg-white transition duration-500 ease-in-out text-gray-600 hover:text-black hover:border-green-500"
         >
-          <img class="w-full h-auto block mb-6" src="/MobileUser.svg" />
+          <img class="w-full h-auto block mb-6" src="/image/MobileUser.svg" />
           <p class="text-xl mb-4 font-semibold">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nihil
             repellendus quod ad. Odit optio possimus necessitatibus quae numquam
@@ -70,7 +70,10 @@
         <div
           class="p-4 border-2 rounded-xl bg-white transition duration-500 ease-in-out text-gray-600 hover:text-black hover:border-green-500"
         >
-          <img class="w-full h-auto block mb-6" src="/DroneDelivery.svg" />
+          <img
+            class="w-full h-auto block mb-6"
+            src="/image/DroneDelivery.svg"
+          />
           <p class="text-xl mb-4 font-semibold">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe
             praesentium, nam debitis eos, tempora id neque illum perspiciatis
@@ -88,8 +91,7 @@
     </div>
     <div class="sm:flex items-center" id="about">
       <div class="flex-1">
-        <img class="w-full h-auto" src="/FallIsComing.svg" />
-        <ImageFallIsComing />
+        <img class="w-full h-auto" src="/image/FallIsComing.svg" />
       </div>
       <div class="flex-1 m-4">
         <div
@@ -186,7 +188,7 @@
         </button>
       </div>
       <div class="flex-1">
-        <img class="w-full h-auto" src="/Deliveries.svg" />
+        <img class="w-full h-auto" src="/image/Deliveries.svg" />
       </div>
     </div>
     <footer class="p-8 text-center">
