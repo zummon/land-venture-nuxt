@@ -1,7 +1,5 @@
-<template>
 <!-- undraw at the park -->
   <svg
-    class="w-full h-auto"
     xmlns="http://www.w3.org/2000/svg"
     width="1021.17474"
     height="798.75165"
@@ -388,4 +386,3 @@
       fill="#00bfa6"
     />
   </svg>
-</template>

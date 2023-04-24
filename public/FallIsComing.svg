@@ -1,6 +1,5 @@
-<template>
 <!-- unDraw Fall is coming -->
-<svg class="w-full h-auto" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1063.44683" height="795.60107" viewBox="0 0 1063.44683 795.60107">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1063.44683" height="795.60107" viewBox="0 0 1063.44683 795.60107">
 <defs>
 <linearGradient x1="232.94435" y1="598.64552" x2="232.94435" y2="497.84938" gradientUnits="userSpaceOnUse">
 <stop offset="0" stop-color="gray" stop-opacity="0.25"/>
@@ -71,4 +70,3 @@
 <path d="M328.82828,498.345a1.51822,1.51822,0,0,0,1.55405.42884" transform="translate(-68.27659 -52.19946)" opacity="0.1"/>
 <path d="M336.02441,517.55371a.9534.9534,0,0,1-.77437.196" transform="translate(-68.27659 -52.19946)" opacity="0.1"/>
 </svg>
-</template>

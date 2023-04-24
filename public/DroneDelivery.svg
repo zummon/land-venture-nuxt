@@ -1,7 +1,6 @@
-<template>
   <!-- unDraw drone delivery -->
   <svg
-    class="w-full h-auto block mb-6"
+    
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     width="958.98"
@@ -654,4 +653,3 @@
       opacity="0.2"
     />
   </svg>
-</template>

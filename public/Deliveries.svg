@@ -1,7 +1,5 @@
-<template>
   <!-- unDraw deliveries -->
   <svg
-    class="w-full h-auto"
     xmlns="http://www.w3.org/2000/svg"
     width="949.57"
     height="703.65"
@@ -304,4 +302,3 @@
       opacity="0.05"
     />
   </svg>
-</template>
