@@ -8,8 +8,6 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.6.6",
-    "nuxt": "^3.4.2",
-    "postcss-custom-properties": "^13.1.5"
-  },
-  "dependencies": {}
+    "nuxt": "^3.6.0"
+  }
 }

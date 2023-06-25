@@ -1,8 +1,8 @@
 <template>
   <div>
     <Head>
-      <title>Land Venture</title>
-      <meta
+      <Title>Land Venture</Title>
+      <Meta
         name="description"
         content="Lorem ipsum dolor sit amet consectetur adipisicing"
       />
@@ -194,7 +194,7 @@
     <footer class="p-8 text-center">
       <p class="font-semibold">
         Made by
-        <a class="text-green-500" href="https://zummon.page/" target="_blank"
+        <a class="text-green-500" href="https://github.com/zummon/" target="_blank"
           >zummon</a
         >
       </p>
