@@ -1,7 +1,8 @@
-### [Demo](https://6c4753-3000.csb.app/)
+### [Codesandbox](https://codesandbox.io/p/github/zummon/land-venture-nuxt)
 
 ### Dev tools
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [unDraw](https://undraw.co/)
 - [Font Awesome](https://fontawesome.com/)
+
