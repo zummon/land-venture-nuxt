@@ -1,4 +1,4 @@
-### [Codesandbox](https://codesandbox.io/p/github/zummon/land-venture-nuxt)
+
 
 ### Dev tools
 
